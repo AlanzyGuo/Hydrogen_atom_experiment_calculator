@@ -15,6 +15,6 @@ int main()
         answer_d--;
     }
 
-    printf("2theta = %d,%d", answer_d, answer_f);
+    printf("2theta = %d,%d\n", answer_d, answer_f);
     return 0;
 }
